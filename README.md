@@ -58,9 +58,6 @@ A simple and elegant Android note-taking app built with Kotlin, Fragments, Room 
 - **Exit Confirmation Dialog**  
   Pressing the back button on the main screen shows a dialog to confirm app exit, preventing accidental closure.
 
-## 📷 Screenshots
-
-> (Add screenshots here if you have any - e.g., Home Screen, Add Note, View Notes, Note Detail)
 
 ## 📄 License
 
